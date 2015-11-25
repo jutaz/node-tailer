@@ -1,0 +1,24 @@
+{
+  "requireSpaceBeforeBlockStatements": true,
+  "requireParenthesesAroundIIFE": true,
+  "requireMultipleVarDecl": true,
+  "requireBlocksOnNewline": true,
+  "disallowPaddingNewlinesInBlocks": true,
+  "disallowEmptyBlocks": true,
+  "disallowSpacesInsideObjectBrackets": "all",
+  "disallowSpacesInsideParentheses": true,
+  "disallowSpaceAfterObjectKeys": true,
+  "requireCommaBeforeLineBreak": true,
+  "validateQuoteMarks": {
+    "mark": "'",
+    "escape": true
+  },
+  "validateIndentation": 2,
+  "disallowMixedSpacesAndTabs": true,
+  "disallowTrailingWhitespace": true,
+  "disallowTrailingComma": true,
+  "requireLineFeedAtFileEnd": true,
+  "maximumLineLength": 120,
+  "requireCapitalizedConstructors": true,
+  "disallowYodaConditions": true
+}
