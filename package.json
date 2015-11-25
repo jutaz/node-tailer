@@ -1,5 +1,5 @@
 {
-  "name": "node-tailer",
+  "name": "tailify",
   "version": "1.0.0",
   "description": "Like tail -f. In node.",
   "main": "main.js",
